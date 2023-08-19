@@ -1,1 +1,1 @@
-# Education-Course-Landing-Page
+# Educational-Course-Landing-Page
